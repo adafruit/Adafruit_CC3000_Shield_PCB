@@ -8,7 +8,7 @@ The CC3000 hits that sweet spot of usability, price and capability. It uses SPI 
 
 **Please note that the CC3000 module is discontinued and we suggest the [Adafruit Airlift products](https://www.adafruit.com/?q=airlift) as a replacement** - it has SSL support, soft-AP capability, and is more reliable.
 
-PCB files for Adafruit CC3000 Shields. The fFormat is EagleCAD schematic and board layout
+PCB files for Adafruit CC3000 Shields. The format is EagleCAD schematic and board layout
 
 For more details, check out the product page at
 
