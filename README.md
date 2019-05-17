@@ -6,7 +6,7 @@ Click to view in the Adafruit Shop:
 
 The CC3000 hits that sweet spot of usability, price and capability. It uses SPI for communication (not UART!) so you can push data as fast as you want or as slow as you want. It has a proper interrupt system with IRQ pin so you can have asynchronous connections. It supports 802.11b/g, open/WEP/WPA/WPA2 security, TKIP & AES. A built in TCP/IP stack with a "BSD socket" interface. TCP and UDP in both client and server mode, up to 4 concurrent sockets. It does not support "AP" mode, it can connect to an access point but it cannot be an access point.
 
-Please note that the CC3000 module is being phased out and we suggest the Adafruit Airlift products as a replacement - it has SSL support, soft-AP capability, and is more reliable.
+**Please note that the CC3000 module is discontinued and we suggest the Adafruit Airlift products as a replacement** - it has SSL support, soft-AP capability, and is more reliable.
 
 PCB files for Adafruit CC3000 Shields. The fFormat is EagleCAD schematic and board layout
 
